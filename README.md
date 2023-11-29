@@ -7,7 +7,6 @@ Frontend Developer
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://mozzammel-hossen.netlify.app)
 * ✉️  You can contact me at [mozzammel.hossen96@gmail.com](mailto:mozzammel.hossen96@gmail.com)
-* 🚀  I'm currently working on [Cars-Doctor Web Site](http://cars-doctors.netlify.app)
 * 🧠  I'm learning VueJs
 
 <a href="https://www.github.com/abirpuc" target="_blank" rel="noreferrer"><img
